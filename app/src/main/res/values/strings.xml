@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PushnotificationFCM</string>
+    <string name="m_y_nh">Máy ảnh</string>
+    <string name="get_data">Get data</string>
+    <string name="push_data">push data</string>
+    <string name="to_readtime">to readtime</string>
+    <string name="nh_p_data">Nhập data</string>
+    <string name="push_datas">push data</string>
+    <string name="get_datas">Get Data</string>
+    <string name="delete_value">delete</string>
+    <string name="nh_p_id">Nhập Id</string>
+    <string name="nh_p_t_n">Nhập tên</string>
+    <string name="realtime_1_object">REALTIME 1 OBJECT</string>
+    <string name="realtime_1_value">REALTIME 1 VALUE</string>
+    <string name="update">update</string>
+</resources>
